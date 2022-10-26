@@ -1,12 +1,7 @@
-## Hi there 👋
+# Defluencer Protocol
 
-<!--
+Defluencer is a protocol built on top of the inter-planetary file system (IPFS). On IPFS, data is ***content addressed*** which means your content can be shared but never modified. As content go viral, it is ***replicated*** by anyone who reads, watches or interacts with it in any way, resulting in social media without central servers.
 
-**Here are some ideas to get you started:**
+Social media content is cryptographically signed. By doing so, each piece of content becomes ***verifiable***.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Websites or applications folowing the protocol become ***interoperable*** with each other because of the properties above.
